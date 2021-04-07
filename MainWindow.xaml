@@ -7,8 +7,14 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Button x:Name="IniciarComunicacao" Content="Ativar" HorizontalAlignment="Left" Margin="26,19,0,0" VerticalAlignment="Top" Click="IComunicacao_Click"/>
-        <Button x:Name="FecharComunicacao" Content="Desativar" HorizontalAlignment="Left" Margin="77,19,0,0" VerticalAlignment="Top" Click="FComunicacao_Click"/>
-
+        <Button x:Name="IniciarComunicacao" Content="Iniciar comunicação" HorizontalAlignment="Left" Margin="32,21,0,0" VerticalAlignment="Top" Click="IComunicacao_Click" Height="38" Width="121"/>
+        <Button x:Name="FecharComunicacao" Content="Fechar comunicação" HorizontalAlignment="Left" Margin="170,21,0,0" VerticalAlignment="Top" Click="FComunicacao_Click" Height="38" Width="119"/>
+        <GroupBox x:Name="Protocolo" Header="Protocolo" Margin="504,17,55,379"/>
+        <RadioButton x:Name="Protocolo1" Content="VT-100-ESC" HorizontalAlignment="Left" Margin="518,33,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="Protocolo2" Content="VT-100-STX/ETX" HorizontalAlignment="Left" Margin="630,33,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="VersaoFirmware" Content="Versão Firmware" HorizontalAlignment="Left" Margin="32,75,0,0" VerticalAlignment="Top" Click="VFirmware_Click" Height="38" Width="121"/>
+        <TextBox x:Name="Terminal" Text="0" HorizontalAlignment="Left" Margin="504,80,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="20" Height="20" TextAlignment="Center"/>
+        <Label x:Name="LabelTerminal" Content="Número do terminal" HorizontalAlignment="Left" Margin="533,75,0,0" VerticalAlignment="Top" Height="29" Width="124"/>
+        <ListBox x:Name="InfFirmware" Margin="504,123,21,236"/>
     </Grid>
 </Window>

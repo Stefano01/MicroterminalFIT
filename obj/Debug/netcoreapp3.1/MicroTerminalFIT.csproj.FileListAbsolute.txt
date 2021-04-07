@@ -17,3 +17,22 @@ C:\Users\Syntax Tecnologia\Desktop\MicroTerminalFIT\obj\Debug\netcoreapp3.1\Micr
 C:\Users\Syntax Tecnologia\Desktop\MicroTerminalFIT\obj\Debug\netcoreapp3.1\MicroTerminalFIT.dll
 C:\Users\Syntax Tecnologia\Desktop\MicroTerminalFIT\obj\Debug\netcoreapp3.1\MicroTerminalFIT.pdb
 C:\Users\Syntax Tecnologia\Desktop\MicroTerminalFIT\obj\Debug\netcoreapp3.1\MicroTerminalFIT.genruntimeconfig.cache
+D:\Projeto\MicroterminalFIT\bin\Debug\netcoreapp3.1\MicroTerminalFIT.exe
+D:\Projeto\MicroterminalFIT\bin\Debug\netcoreapp3.1\MicroTerminalFIT.deps.json
+D:\Projeto\MicroterminalFIT\bin\Debug\netcoreapp3.1\MicroTerminalFIT.runtimeconfig.json
+D:\Projeto\MicroterminalFIT\bin\Debug\netcoreapp3.1\MicroTerminalFIT.runtimeconfig.dev.json
+D:\Projeto\MicroterminalFIT\bin\Debug\netcoreapp3.1\MicroTerminalFIT.dll
+D:\Projeto\MicroterminalFIT\bin\Debug\netcoreapp3.1\MicroTerminalFIT.pdb
+D:\Projeto\MicroterminalFIT\obj\Debug\netcoreapp3.1\MicroTerminalFIT.csprojAssemblyReference.cache
+D:\Projeto\MicroterminalFIT\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Projeto\MicroterminalFIT\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Projeto\MicroterminalFIT\obj\Debug\netcoreapp3.1\MicroTerminalFIT_MarkupCompile.cache
+D:\Projeto\MicroterminalFIT\obj\Debug\netcoreapp3.1\MicroTerminalFIT_MarkupCompile.lref
+D:\Projeto\MicroterminalFIT\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Projeto\MicroterminalFIT\obj\Debug\netcoreapp3.1\MicroTerminalFIT.g.resources
+D:\Projeto\MicroterminalFIT\obj\Debug\netcoreapp3.1\MicroTerminalFIT.AssemblyInfoInputs.cache
+D:\Projeto\MicroterminalFIT\obj\Debug\netcoreapp3.1\MicroTerminalFIT.AssemblyInfo.cs
+D:\Projeto\MicroterminalFIT\obj\Debug\netcoreapp3.1\MicroTerminalFIT.csproj.CoreCompileInputs.cache
+D:\Projeto\MicroterminalFIT\obj\Debug\netcoreapp3.1\MicroTerminalFIT.dll
+D:\Projeto\MicroterminalFIT\obj\Debug\netcoreapp3.1\MicroTerminalFIT.pdb
+D:\Projeto\MicroterminalFIT\obj\Debug\netcoreapp3.1\MicroTerminalFIT.genruntimeconfig.cache
